@@ -1,0 +1,62 @@
+    1  git config--global user.name "Iliushyna_Svitlana"
+    2  git--help
+    3  git config --global user.name "Iliushyna Svitlana"
+    4  git config --global user.name effi.manya@gmail.com
+    5  git config --get user.name 
+    6  git config --global user.name "Iliushyna Svitlana"
+    7  git config --global user.email effi.manya@gmail.com
+    8  git config --get user.name 
+    9  git config --get user.email 
+   10  clear
+   11  git clone https://github.com/1966Svitlana1966/HW_10.git
+   12  ls
+   13  cd GIT_HW
+   14  help
+   15  help ls
+   16  ls
+   17  help cd
+   18  cd Postman
+   19  cd Poctman/
+   20  ls
+   21  cd Desktop
+   22  ls
+   23  cd GIT_Hw
+   24  ls
+   25  histiry -c && rm ~/.bash_history
+   26  dit config --get user.name
+   27  git config --get user.name
+   28  git config --get user.email
+   29  git hist
+   30  git log
+   31  cd GIT_HW
+   32  cd HW_10
+   33  git status
+   34  ls
+   35  touch text_ignore.txt
+   36  nano .gitignore
+   37  nano .gitignore
+   38  git status
+   39  cat .gitignore
+   40  git add 
+   41  git add .
+   42  git status
+   43  git commit -m "Created new file text_ignore.txt and added his name in to gitignore file"
+   44  touch main_text.txt
+   45  git add .
+   46  git commit -m "Created new file main_text.txt"
+   47  git log
+   48  git checkout - b develop
+   49  git checkout -b develop
+   50  git branch
+   51  touch develop_test.txt
+   52  git add .
+   53  git commit -m "Create an empty file develop_test.txt for branch develop"
+   54  nano develop_test.txt
+   55  git status
+   56  git add .
+   57  git commit -m "file develope_test was change: add text :develope_test.txt"
+   58  git checkout -b main
+   59  git checkout main
+   60  git merge develop
+   61  git log
+   62  history > command_list.csv
